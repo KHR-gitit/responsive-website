@@ -28,4 +28,8 @@ section.client {
   background-image: url("../imgs/client-bg.png");
   position: relative;
 }
+.margin-center {
+
+  padding: 50px;
+}
 /*# sourceMappingURL=style.css.map */
